@@ -42,3 +42,10 @@ I am building the environment in VMware Workstation and documenting what I learn
 ## Lab Progress
 
 This is my first time building an environment like this. I am documenting the process to reinforce what I learn and track my progress as I gain more hands-on experience.
+
+
+## Lab Screenshot
+
+![Active Directory Home Lab](active-directory-lab.png)
+
+This screenshot shows my VMware lab running Windows Server 2025 alongside Windows 10 Pro and Windows 11 Enterprise. I configured Active Directory Domain Services and DNS and created the `chase.lab` domain as part of my first hands-on Active Directory lab.
