@@ -1,5 +1,7 @@
 # Home IT & Cybersecurity Lab
 
+### Week 1 Building Foundation
+
 This repository documents my first hands on home lab as I learn IT administration, networking, Active Directory, and cybersecurity.
 
 I am building the environment in VMware Workstation and documenting what I learn as I go.
